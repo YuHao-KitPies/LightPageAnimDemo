@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LightPageAnimDemo</string>
+    <string name="button">Start Animation</string>
+    <string name="hint_text">The Animation is finished.</string>
+</resources>

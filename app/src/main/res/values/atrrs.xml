@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="main_alpha" format="float"/>
+    <attr name="pic_src" format="reference"/>
+    <declare-styleable name="AlphaReflectionImageView">
+        <attr name="pic_src"/>
+        <attr name="main_alpha"/>
+        <attr name="reflection_gap" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="RotateImageView">
+        <attr name="pic_src"/>
+        <attr name="main_alpha"/>
+        <attr name="init_rotate_step_degree" format="float"/>
+    </declare-styleable>
+</resources>
